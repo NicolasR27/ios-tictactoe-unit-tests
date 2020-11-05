@@ -1,10 +1,3 @@
-//
-//  GameAITests.swift
-//  TicTacToeTests
-//
-//  Created by Nicolas Rios on 3/27/20.
-//  Copyright © 2020 Lambda School. All rights reserved.
-//
 
 import XCTest
 @testable import TicTacToe
